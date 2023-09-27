@@ -1,6 +1,4 @@
-//Credits go to ASKiere
-//Original idea by me (TamTheWise)
-//Plz enjoy
+
 p, div, a, img, h1, h2, h3, h4, h5, h6, ul {
 p, div, a, img, h1, h2, h3, h4, h5, h6, ul, iframe {
     visibility: hidden;
